@@ -1,16 +1,16 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'TurboWarp Documentation',
-  url: 'https://docs.turbowarp.org',
+  title: 'Sailfish Studio Documentation',
+  url: 'https://sailfish-studio.github.io/Sailfish-Docs',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  organizationName: 'TurboWarp',
-  projectName: 'docs',
+  organizationName: 'Sailfish-Studio',
+  projectName: 'Sailfish-Docs',
   trailingSlash: false,
   themeConfig: {
     navbar: {
-      title: 'TurboWarp Documentation',
+      title: 'Sailfish Studio Documentation',
       items: [
         {
           href: '/packager/',
