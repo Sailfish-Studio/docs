@@ -1,8 +1,8 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Sailfish Studio Documentation',
-  url: 'https://sailfish-studio.github.io/Sailfish-Docs',
-  baseUrl: '/',
+  url: 'https://sailfish-studio.github.io',
+  baseUrl: '/Sailfish-Docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   organizationName: 'Sailfish-Studio',
